@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+.bg-nav {
+  background-color: #f55a5a;
+}
+
+.text-light {
+  color: #918e9b;
+  text-decoration: underline;
+}
+
+.text-primary {
+  color: #f55a5a;
+}
+
+p {
+  color: #2b283a;
+}
